@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 /**
  * display_complex_number - function that displays
  * the complex numbers, followed by a new line.
